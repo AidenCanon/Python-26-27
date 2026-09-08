@@ -1,0 +1,1 @@
+In this assignment i created a shopping cart or amazon cart and the problem turned out to be i was adding the tax percent instead of multiplying it and along with that i was subtracting the tax and i don't wanna do that need to get that tax sorry to the shoppers.
