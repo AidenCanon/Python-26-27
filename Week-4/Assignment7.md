@@ -1,0 +1,2 @@
+# What did the class store, what did its methods do, and how was this different from a function-based version?
+The class stored the all of the functions in it,  the methods were the functions Adding task and displaying the task, and the difference was instead of having to call on multiple functions to add stuff to we call just one class to add the data by running all of the functions in the class.
