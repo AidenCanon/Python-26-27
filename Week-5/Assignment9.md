@@ -1,0 +1,3 @@
+I chose to use a csv and read it the topic is on games there platform, price, and if there expensive. I read integers and strings along with i had it check to see how expensive the game was. 
+
+A problem i ran into was i created a json file first but changed it to a csv and i found while it still runs it shows an error saying its supposed to be a json file.  I also found that as we talked in class misspelling the name of the file can be a pain because i did not even notice it until i ran it and it said file not found.
