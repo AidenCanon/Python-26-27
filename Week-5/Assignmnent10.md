@@ -1,0 +1,5 @@
+# What did i do 
+I stared out by using a class and putting a function in it making it so i can call it every time using different variables and then i went to use just plain text style outside of the class.  In the end i called on the class put the data in and went to print it out to see if it actually was working.
+For the class i use a variable for the class to then call it down on the print but also to input the parameters to be able to print out the data 
+What could work or be different well i think plain text works alright along with the object style and truly i think a csv would work well if you were comparing the data in a table.  One thing i think we could do is add it to a list if possible because i don't think dictionary would display at as well as a CSV, Plain Text, Or object style would.
+While i did not do a csv here with what i have learned about them i feel a CSV would be better appropriate for comparing data but if we are just trying to explain or show the data to the public plain text would work the best because you could just tie the plain text into each game but for analysts csv would be best as i said.
