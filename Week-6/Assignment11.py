@@ -1,6 +1,9 @@
 """
 Assignment 11: Python Week 6
 """
+# import json
+# from pathlib import Path
+
 # Function to create the request details for the automotive API based on the brand name
 def automotiveResponse(brandName):
     return{
@@ -32,3 +35,20 @@ chosen_values = choose_automotive_values(simulated_response)
 print("Request endpoint:", request_details["endpoint"])
 print("Request query:", request_details["query"])
 print("Chosen values:", chosen_values)
+
+
+#Input data from a json and create an error message.
+# input_file = Path(__file__).with_name("car_brand.json")
+
+# Open the input JSON file and load its contents
+# with input_file.open("r", encoding="utf-8") as file:
+    # input_data = json.load(file)
+
+    
+    # Check if the input data contains an error status
+    # if input_data["status"] == "error":
+        # Print a message indicating that an error was found
+        # print("Error message:", input_data["message"])
+    # else:
+        # Print a message indicating that no error was found
+        # print("No error found.")

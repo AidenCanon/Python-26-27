@@ -1,0 +1,9 @@
+{
+    "brand": "Chevy",
+    "current": {
+        "carPrice": 20000,
+        "carCondition": "Used"
+    },
+    "status": "error",
+    "message": "An error occurred"
+}

@@ -1,1 +1,3 @@
 I was representing for my data car values such as Price and if the condition was new! I chose to display these values because say your were to buy a brand new car or used you would like to have the price displayed along with the condition the vehicle is in such as whether it is New, Old, Or Used.  I also used the dictionaries and lists to display the data and the print to display them in the terminal.
+
+The error message is added works as intended and now it is commented out for later use possibly but if you change the status it does say no error occurred.
