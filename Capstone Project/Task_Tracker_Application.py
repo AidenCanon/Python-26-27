@@ -41,7 +41,7 @@ def display_tasks(task_list):
         print("No tasks have been added yet.")
     for task in task_list:
         print(f"\nCourse: {task['Course']}, Assignment: {task['Assignment']}, Due Date: {task['DueDate']}, Total Minutes: {task['TotalMinutes']}, Status: {task['Status']}")
-    print(f"Total Minutes for all tasks: {total_minutes(task_list)}")
+    print(f"\nTotal Minutes for all tasks: {total_minutes(task_list)}")
 
 #Handles user input for adding a new task
 def user_input_task(task_list):
