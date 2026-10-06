@@ -40,9 +40,12 @@ Examples:
 
 ## 5. How I Validated It
 
-* expected vs actual checks
-   * Add task is expected to run and get input and then display when user chooses the option to.
-* Everything has been ran and runs as intended to i actually tried misdoing something and it will not allow it.
+I checked:
+
+* Add tasks 
+* total minutes 
+* empty task list 
+* json working 
 
 ---
 
